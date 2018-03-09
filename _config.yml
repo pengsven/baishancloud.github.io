@@ -13,3 +13,5 @@ github_username:  baishancloud
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
